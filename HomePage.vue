@@ -514,7 +514,6 @@ export default {
             ],
 
         }
-
     },
     created() {
         if (this.createdImages.length > 0) {
